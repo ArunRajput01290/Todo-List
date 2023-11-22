@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+form {
+  background-color: black;
+  display: flex;
+  justify-content: space-evenly;
+  align-items:first center;
+  flex-wrap: wrap;
+}
